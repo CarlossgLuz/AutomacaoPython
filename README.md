@@ -22,7 +22,7 @@ Exibe uma mensagem indicando o sucesso da instalação.
 ## ⚠️ Observações
 As coordenadas de cliques (x, y) são específicas para a tela onde o script foi criado. Ajuste conforme necessário.
 Para descobrir coordenadas, use:
-  ``bash
+  ```bash
   python
   Copiar código
   import pyautogui
